@@ -1,0 +1,12 @@
+{
+    "collage": {
+        "student": {
+        "studentname":"jayanti",
+        "collagename":"vignan",
+        "rollno":"1234",
+        "course":"corejava",
+        "fees": "20000"
+
+    }
+}
+}
