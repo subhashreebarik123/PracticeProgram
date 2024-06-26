@@ -1,4 +1,4 @@
 # PracticeProgram
 This is my first Git Repository.
 <br>
-Author - Subhashree Barik
+Author - Subhashree Barik (Apna Collage)
